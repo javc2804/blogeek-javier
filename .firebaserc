@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "blogeekplatzi-4836b"
+    "default": "blogeekplatzi-4836b",
+    "blog": "bloggeek-javier"
   }
 }

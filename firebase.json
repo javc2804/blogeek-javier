@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "blogeek-javier",
     "public": "public",
     "ignore": [
       "firebase.json",
